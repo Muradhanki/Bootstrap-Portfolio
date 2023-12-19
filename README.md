@@ -22,7 +22,7 @@ https://muradhanki.github.io/Bootstrap-Portfolio/
 Hi everyone! This is Muradhan. I am a construction project manager of 10 years whom always had an interest overt the IT industry. Finally decided to make the switch, and started the EdX's Front end development boot camp to switch his field of work. 
 
 In this assignment, I'll be building my portfolio layout using the Bootstrap CSS Framework. We have been asked to follow the template below for the reference.
-![Screenshot](https://github.com/Muradhanki/Bootstrap-Portfolio/blob/main/images/MK_Week_3_project.jpg "Optional Title")
+![Screenshot](https://github.com/Muradhanki/Bootstrap-Portfolio/blob/main/images/MK_Week_3_project.jpg "Web application Screen Shot")
  
 Being a a future front-end developer, I was in need of an portfolio to showcase my projects to prospective clients.
 
@@ -82,7 +82,9 @@ To get a local copy up and running follow these simple example steps.
 1. Fire up your GitBash console and copy the line below
 
 2. 
-git clone git@github.com:Muradhanki/Challenge-Week-2.git
+git clone git@github.com:Muradhanki/Bootstrap-Portfolio.git
+
+![Screenshot](https://github.com/Muradhanki/Bootstrap-Portfolio/blob/main/images/git%20clone%20ss.jpg "Git Bash Installation")
 
 ## Roadmap
 
