@@ -123,22 +123,26 @@ nav a:hover {
     letter-spacing: 2px;
     text-transform: uppercase;
     margin-top: 90px;
-    margin-bottom: 90px;
+    margin-bottom: 50px;
+    background: #ffffff;
+    
 }
 h2 {
     color: #292929;
     font-weight: 600;
+    background: #ffffff;
     
 }
 
 .paddsections {
     padding-top: 90px;
     padding-bottom: 90px !important;
+    background: #ffffff;
   }
 
 .card {
   border-radius: 4px;
-  background: #fff;
+  background: #ffffff;
   box-shadow: 0 6px 10px rgba(0, 0, 0, 0.08), 0 0 6px rgba(0, 0, 0, 0.05);
   transition: 0.3s transform cubic-bezier(0.155, 1.105, 0.295, 1.12),
     0.3s box-shadow,
@@ -152,3 +156,48 @@ h2 {
   transform: scale(1.05);
   box-shadow: 0 10px 20px rgba(0, 0, 0, 0.12), 0 4px 8px rgba(0, 0, 0, 0.06);
 }
+
+.separator {
+margin-bottom: 40px;
+}
+/* ABout me */
+.flexItem2 {
+    background: #ffffff;
+    margin: 10px;
+    padding: 10px;
+    width: 1000px;
+    height: auto;
+    color: #31343d;
+    list-style: none;
+    
+  }
+
+p.abt {
+    padding-bottom: 40px;
+    border: 20px solid #b8a07e;
+    
+    
+  }
+
+  /* Skills */
+  .row col-lg-3 {
+height: 50%;
+  }
+
+  /* footer */
+  footer ul {
+    display: flex;
+    justify-content: space-between;
+    min-width: 300px;
+  }
+  
+footer a {
+    color: #31343d;
+    font-weight: bold;
+    text-decoration: underline;
+  }
+  
+footer a:hover {
+    color: green;
+    box-shadow: 10px 10px #b8a07e;
+  }
